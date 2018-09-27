@@ -1,0 +1,20 @@
+{
+  "name": "oliver-twist-names-express",
+  "version": "1.0.0",
+  "main": "dist/server.js",
+  "author": "Dan Young <danieleyoung1984@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn run build && yarn run serve",
+    "build": "./node_modules/.bin/tsc",
+    "serve": "node ."
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "name-counter": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.0",
+    "typescript": "^3.0.3"
+  }
+}
