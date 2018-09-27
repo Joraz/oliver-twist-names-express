@@ -249,9 +249,9 @@ ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
 
-name-counter@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/name-counter/-/name-counter-1.0.1.tgz#8d7f605e6134a52afd2b2fdb57e3629798a291b7"
+name-counter@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/name-counter/-/name-counter-1.0.3.tgz#d29966dfea308b93a3837fb8bea18c1b5a5271ac"
 
 negotiator@0.6.1:
   version "0.6.1"
